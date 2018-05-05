@@ -1,0 +1,14 @@
+body {
+  background-image: url("header.jpg");
+  background-repeat: no-repeat;
+}
+
+div {
+  color: white;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+}
